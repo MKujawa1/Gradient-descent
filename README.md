@@ -1,2 +1,2 @@
 # Gradient-descent
-Wykorzystanie gradient descent do funkcji liniowej oraz kwadratowej. 
+Using gradient descent for linear and quadratic functions. 
